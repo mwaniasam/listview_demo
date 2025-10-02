@@ -1,0 +1,34 @@
+# Screenshots Directory
+
+This directory contains app screenshots for the README documentation.
+
+## Screenshot Guidelines
+
+Please add the following screenshots:
+
+1. **home_screen.png** - Main contact list view
+2. **contact_details.png** - Contact details dialog
+3. **scrolling_demo.png** - Demonstration of smooth scrolling
+4. **android_view.png** - Android emulator view
+
+## Recommended Screenshot Specs
+
+- **Format**: PNG or JPG
+- **Resolution**: 1080x1920 (mobile) or higher
+- **Quality**: High resolution for clear documentation
+- **Size**: Keep under 2MB per image for optimal loading
+
+## How to Take Screenshots
+
+### Android Emulator
+1. Run the app in Android emulator
+2. Use emulator's camera button or Ctrl+S
+3. Or use `flutter screenshot` command
+
+### Physical Device
+1. Take screenshots using device's native screenshot feature
+2. Transfer to this directory
+
+## Note
+Screenshot files are ignored by git to keep repository size small. 
+Only this .gitkeep file is tracked to maintain the directory structure.

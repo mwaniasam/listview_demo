@@ -43,3 +43,85 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Additional Flutter/Development files to ignore
+*.lock
+*.tmp
+*.temp
+
+# IDE specific files
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+*.code-workspace
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+
+# Flutter Web build
+/web/build/
+
+# Flutter Windows build
+/windows/flutter/
+
+# Flutter macOS build
+/macos/build/
+
+# Flutter Linux build
+/linux/build/
+
+# Flutter iOS build artifacts
+/ios/build/
+/ios/Runner.xcworkspace/
+/ios/Runner.xcodeproj/project.xcworkspace/
+/ios/Runner.xcodeproj/xcuserdata/
+/ios/Pods/
+
+# Android specific
+/android/app/src/main/res/values/secrets.xml
+/android/key.properties
+/android/app/google-services.json
+/android/.gradle/
+/android/gradle/
+/android/gradlew
+/android/gradlew.bat
+/android/local.properties
+
+# Firebase
+/android/app/google-services.json
+/ios/Runner/GoogleService-Info.plist
+/web/firebase-config.js
+
+# Environment files
+.env
+.env.local
+.env.production
+.env.staging
+
+# Dependencies
+node_modules/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Generated files
+*.g.dart
+*.freezed.dart
+*.mocks.dart
+
+# Test coverage
+/test/.test_coverage.dart
+/test/coverage/
+
+# Documentation
+/doc/api/
+
+# Keep screenshots directory but ignore large image files
+/screenshots/*.jpg
+/screenshots/*.jpeg
+/screenshots/*.png
+/screenshots/*.gif
+/screenshots/*.webp
+# But keep a placeholder
+!/screenshots/.gitkeep
