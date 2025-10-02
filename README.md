@@ -71,10 +71,10 @@ ListView.builder(
 ## 📸 Screenshots
 
 ### Home Screen
-![Home Screen](https://github.com/mwaniasam/listview_demo/blob/master/screenshots/home_screen.png?raw=true)
+![Home Screen](screenshots/home_screen.png)
 
 ### Contact Details Dialog
-![Contact Details](https://github.com/mwaniasam/listview_demo/blob/master/screenshots/contact_details.png?raw=true)
+![Contact Details](screenshots/contact_details.png)
 
 ## 🚀 Getting Started
 

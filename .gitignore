@@ -116,12 +116,3 @@ node_modules/
 
 # Documentation
 /doc/api/
-
-# Keep screenshots directory but ignore large image files
-/screenshots/*.jpg
-/screenshots/*.jpeg
-/screenshots/*.png
-/screenshots/*.gif
-/screenshots/*.webp
-# But keep a placeholder
-!/screenshots/.gitkeep
