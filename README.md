@@ -71,20 +71,10 @@ ListView.builder(
 ## 📸 Screenshots
 
 ### Home Screen
-<!-- Add your home screen screenshot here -->
-![Home Screen](screenshots/home_screen.png)
+![Home Screen](https://github.com/mwaniasam/listview_demo/blob/master/screenshots/home_screen.png?raw=true)
 
 ### Contact Details Dialog
-<!-- Add your contact details screenshot here -->
-![Contact Details](screenshots/contact_details.png)
-
-### Scrolling Performance
-<!-- Add your scrolling demonstration screenshot here -->
-![Scrolling Demo](screenshots/scrolling_demo.png)
-
-### Android Emulator View
-<!-- Add your Android emulator screenshot here -->
-![Android View](screenshots/android_view.png)
+![Contact Details](https://github.com/mwaniasam/listview_demo/blob/master/screenshots/contact_details.png?raw=true)
 
 ## 🚀 Getting Started
 
