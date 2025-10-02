@@ -2,7 +2,7 @@
 
 A beautiful Flutter application demonstrating the power and efficiency of ListView.builder through a real-world contact list implementation.
 
-## 📱 App Overview
+## App Overview
 
 This demo showcases ListView.builder's key features:
 - **Performance optimization** with on-demand widget creation
@@ -11,16 +11,16 @@ This demo showcases ListView.builder's key features:
 - **Modern Material Design 3** aesthetics
 - **Clean architecture** with separation of concerns
 
-## ✨ Features
+## Features
 
-- 📋 **Scrollable Contact List** - Smooth scrolling through contacts
-- 🎨 **Modern UI Design** - Purple gradient theme with Material Design 3
-- 💬 **Interactive Details** - Tap contacts to view detailed information
-- 📞 **Call Functionality** - Simulated call feature with feedback
-- ➕ **Add Contact** - Floating action button for adding new contacts
-- 🎯 **Responsive Design** - Optimized for mobile devices
+- **Scrollable Contact List** - Smooth scrolling through contacts
+- **Modern UI Design** - Purple gradient theme with Material Design 3
+- **Interactive Details** - Tap contacts to view detailed information
+- **Call Functionality** - Simulated call feature with feedback
+- **Add Contact** - Floating action button for adding new contacts
+- **Responsive Design** - Optimized for mobile devices
 
-## 🏗️ Architecture
+## Architecture
 
 ### File Structure
 ```
@@ -46,7 +46,7 @@ lib/
 - **Elevated cards** - Clean shadows and rounded corners
 - **Typography hierarchy** - Clear visual information structure
 
-## 🎯 ListView Demo Highlights
+## ListView Demo Highlights
 
 ### Core ListView Properties
 ```dart
@@ -63,12 +63,12 @@ ListView.builder(
 ```
 
 ### Performance Benefits
-- ✅ **Lazy Loading** - Items built only when needed
-- ✅ **Viewport Rendering** - Only visible items in memory
-- ✅ **Smooth Scrolling** - Native 60fps performance
-- ✅ **Memory Efficient** - Automatic widget recycling
+- **Lazy Loading** - Items built only when needed
+- **Viewport Rendering** - Only visible items in memory
+- **Smooth Scrolling** - Native 60fps performance
+- **Memory Efficient** - Automatic widget recycling
 
-## 📸 Screenshots
+## Screenshots
 
 ### Home Screen
 ![Home Screen](screenshots/home_screen.png)
@@ -76,7 +76,7 @@ ListView.builder(
 ### Contact Details Dialog
 ![Contact Details](screenshots/contact_details.png)
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Flutter SDK (3.0.0 or higher)
@@ -120,7 +120,7 @@ flutter run
 flutter run -d chrome
 ```
 
-## 🛠️ Technical Implementation
+## Technical Implementation
 
 ### Widgets Used
 
@@ -148,7 +148,7 @@ Background: #F5F7FA (Light Gray)
 Surface: #F8F9FA (Off-white)
 ```
 
-## 📚 Learning Objectives
+## Learning Objectives
 
 This demo teaches:
 
@@ -159,7 +159,7 @@ This demo teaches:
 5. **Navigation patterns** appropriate for list-based applications
 6. **Performance considerations** for mobile applications
 
-## 🎥 Presentation Points
+## Presentation Points
 
 ### Key Demo Features
 - **Real-world use case** - Everyone understands contact lists
@@ -175,10 +175,18 @@ This demo teaches:
 - Navigation pattern selection rationale
 - Clean architecture and code organization
 
-## 👨‍💻 Author
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Author
 
 Samuel Mwania
 
 ---
 
-**Built with Flutter 💙**
+Built with Flutter
